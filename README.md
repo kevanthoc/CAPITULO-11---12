@@ -835,7 +835,11 @@ R= 1/fC=1/(100 pF)( 8 kHz)=1.25MΩ
 ***
 
 **CONCLUSIONES**
+- Con el desarrollo de las actividades establecidas se puede concluir que por medio del respectivo analisis tanto del amrco teorico como de su comprension existen varias formulas importantes que debemos considerar  para la aplicacion de los mismos. 
 
+
+- Un punto importante es que debemos tener en cuenta la relacion  que existe en la relacion entre los diferetes componentes en nuestros circuitos como por ejemplo el resultado de las capacitancias totales tiene una resolucion muy difernete a al suma paricla de resistencias que ya se venian desarrollando.
+ 
 
 ***
 **BIBLIOGRAFIA**

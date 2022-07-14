@@ -789,7 +789,7 @@ F=1/2πCXc=1/2π(0.5µ) (100) =3.18k Hz
 46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
 
 
- 48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81
+48  Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81
 
 ![image](https://user-images.githubusercontent.com/105686218/178991309-ee6d758e-4a5f-4cf0-9797-0c5682a88879.png)
 

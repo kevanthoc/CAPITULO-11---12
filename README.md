@@ -23,6 +23,7 @@ Tema: **INTRODUCCIÓN A LA CORRIENTE Y AL VOLTAJE ALTERNOS  - CAPACITORES**
 ***
 
 **Objetivo General**
+
 Establecer y determinar las caracteristicas correspondientes a los capitulos del libro por medio de esquemas graficos y ejercicios .
 
 
@@ -173,6 +174,8 @@ Vprom = (2/ π)*25 = 15.9
 14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
 
 25°
+
+
 16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos: 
 
 (a) 15°
@@ -349,7 +352,7 @@ Vmáx = Vcd + 1.414Vrms = Vcd + 1.414(3 V)
 
 Vmin = Vcd - 1.414Vrms = Vcd - 1.414(3 V) 
 
-* 32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos.
+ 32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos.
 Determine la disipación de potencia en el resistor de carga.
 
 ![image](https://user-images.githubusercontent.com/105686218/178988158-70525f67-47a8-4ce4-bf4f-ab4203216a0e.png)
@@ -394,7 +397,7 @@ f=  1 / 30 micro seg
 f= 33.33 kHz
 
 
-* 40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
+40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
 
 ![image](https://user-images.githubusercontent.com/105686218/178988458-0a40e434-6007-484e-956e-384befc9f509.png)
 
@@ -420,7 +423,7 @@ Los armónicos impares son frecuencias que son múltiplos impares de la frecuenc
 40 ms, 41 ms,43ms, 45ms, 47ms, 49ms
 
 
-* 44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados.
+ 44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados.
 
 ![image](https://user-images.githubusercontent.com/105686218/178988588-2314e235-b366-413c-a705-a684b7af5d1a.png)
 
@@ -489,7 +492,7 @@ A= 6* (2.5*3.8)^(2)
 A= 541.5 m J 
 
 
-* 10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (Er =2.5) de 8 105 m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas? 
+10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (Er =2.5) de 8 105 m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas? 
 
  ![image](https://user-images.githubusercontent.com/105686218/178989541-ddefff97-9d84-4cec-963a-b9d4e0ddeb72.png)
 
@@ -638,6 +641,7 @@ c)
 Vs=Vab=10V
 
 Capacitores en circuitos de cd
+
 30. Determine la constante de tiempo para cada una de las combinaciones en serie:
 a) R = 100 Ω , C = 1 µF 
 
@@ -686,6 +690,8 @@ Vc= (15) [1-e^ (-40µs/10µs)]=14.72 V
 Vc= (15) [1-e^ (-50µs/10µs)]=14.89 V
 
 34. Repita el problema 32 con los siguientes intervalos de tiempo:
+
+
 (a) 2 µs 
 
 Vc= (15) [1-e^ (-20µs/10µs)] =2.72V
@@ -724,7 +730,7 @@ T=-(1.5ms)ln(0.12)
 
 T=3.18ms
 
-* 40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t = 10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
+ 40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t = 10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
 
 ![image](https://user-images.githubusercontent.com/105686218/178991007-b3b1aace-d1ec-4ef0-b3d9-29159c0da8ce.png)
 
@@ -781,7 +787,9 @@ F=1/2πCXc=1/2π(0.5µ) (100) =3.18k Hz
 
 
 46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
-* 48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81
+
+
+ 48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81
 
 ![image](https://user-images.githubusercontent.com/105686218/178991309-ee6d758e-4a5f-4cf0-9797-0c5682a88879.png)
 
@@ -803,7 +811,7 @@ Xc=1/2π(300)( 0.0077µF)=68kΩ
 Irms=Vrms/Xc=10/68kΩ=147.05µA
 
 
-* 50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
+50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
 
 ![image](https://user-images.githubusercontent.com/105686218/178991373-05ff8792-714c-47c1-a678-47e6ff0fe572.png)
 

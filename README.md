@@ -76,7 +76,11 @@ CAPITULO 12
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
 ***
+
 **CAPITULO 11**
+
+
+***
 2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
 
 (a) 1 Hz 
